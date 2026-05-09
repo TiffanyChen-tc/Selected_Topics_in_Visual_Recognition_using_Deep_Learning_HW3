@@ -159,9 +159,7 @@ Predictions are merged with per-class box NMS.
 
 Final public leaderboard result:
 
-```text
-Public AP50: 0.5891
-```
+![Leaderboard Screenshot](https://raw.githubusercontent.com/TiffanyChen-tc/Selected_Topics_in_Visual_Recognition_using_Deep_Learning_HW3/4f12c570d4a9354e2b9284d8c6b6b8681f1906f0/competition.png)
 
 Validation TTA ablation:
 
