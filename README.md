@@ -1,4 +1,4 @@
-# Selected Topics in Visual Recognition using Deep Learning HW3
+# HW3 — Instance Segmentation with Mask R-CNN
 
 **Student ID:** 314553003  
 **Name:** Yi-Chien Chen  
