@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow git to enter directories
+!*/
+
+# Allow source code
+!*.py
+
+# Allow README
+!README.md
+
+# Allow this file
+!.gitignore
